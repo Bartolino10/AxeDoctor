@@ -1,4 +1,4 @@
-# AxeDoctor V1.0
+# AxeDoctor
 
 AxeDoctor is a (hardware) monitoring device for skot's ESP-Miner software
 (https://github.com/skot/ESP-Miner).
@@ -121,3 +121,8 @@ power supply.
 # Registration 
 
 Work in progress
+
+# Hardware
+
+https://a.aliexpress.com/_Ew7XsML
+https://a.aliexpress.com/_EJlkuTp
