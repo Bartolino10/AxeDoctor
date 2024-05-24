@@ -117,6 +117,37 @@ power supply.
 
 4) Side button: RESET
 
+# Recommendations and use cases
+
+AxeDoctor is indicated in the following use cases:
+  1) All ESP-Minier devices are in the same subnet as the AxeDoctor
+  2) All ESP-Miner devices are always turned on 24 hours a day:
+  	2A) You can use the FIXED IP configuration if you know them;
+ 	    usually even if you turn off a device your router
+  	    will always assign the same IP address if possible.
+  	2B) You can use automatic IP configuration (RESCAN) every time
+ 	    It will take approximately 20 minutes for you to turn on your AxeDoctor
+  	    to scan its entire subnetwork for
+ 	    ESP-Miner devices (example 192.168.0.X with X>1)
+  	   In these cases you can also turn on your AxeDoctor in time slots
+ 	   so that an IP scan is performed again each time
+  	2C) You can use automatic IP configuration only the first time (AUTO),
+ 	    a RESCAN will be performed only once whose result will be
+  	    stored as fixed IPs
+  3) All ESP-Miner devices turn on only in certain time slots
+     of the day by means of smart switches (for example to take advantage of the
+     your photovoltaic system):
+  	3A) In these cases it is better to always use the configuration
+  	    automatic IP selection (RESCAN) and your AxeDoctor will have to turn on
+  	    together with your ESP-Miner devices. The scan function
+            automatic IP address will take approximately 20 minutes to allow
+            devices to start up regularly.
+
+
+# License
+
+Freeware
+
 
 # Registration 
 
