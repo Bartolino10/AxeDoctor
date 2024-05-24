@@ -123,3 +123,5 @@ Prossimamente
 # Hardware
 https://a.aliexpress.com/_Ew7XsML https://a.aliexpress.com/_EJlkuTp
 
+# Assistenza
+axedoctorb10@gmail.com
