@@ -13,7 +13,7 @@ con funzionalità Wi-Fi e Bluetooth integrate. La scheda è dotata di un micropr
 * I parametri di lavoro monitorati sono:
 	1) Temperatura
 	2) Voltage
-	3) Ventola di raffreddamento
+	3) Velocità della ventola
 	4) Hashrate
 	5) Shared accepted
 	6) Shared rejected
