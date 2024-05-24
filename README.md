@@ -14,7 +14,7 @@ power supply.
 * The monitored working parameters are:
 	 1) Temperature
 	 2) Voltage
-	 3) Cooling fan
+	 3) Fan speed
 	 4) Hashrate
 	 5) Shared accepted
 	 6) Shared rejected
