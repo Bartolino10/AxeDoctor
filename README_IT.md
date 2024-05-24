@@ -1,4 +1,4 @@
-# AXE DOCTOR V1.0
+# AXE DOCTOR
 
 AxeDoctor è un dispositivo (hardware) di monitoraggio del software ESP-Miner di skot
 (https://github.com/skot/ESP-Miner).
@@ -119,3 +119,7 @@ con funzionalità Wi-Fi e Bluetooth integrate. La scheda è dotata di un micropr
 
 # Registrazione 
 Prossimamente
+
+# Hardware
+https://a.aliexpress.com/_Ew7XsML https://a.aliexpress.com/_EJlkuTp
+
