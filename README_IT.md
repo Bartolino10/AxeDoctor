@@ -144,7 +144,7 @@ AxeDoctor è indicato nei seguenti casi di uso:
 
 
 # Licenza
-Freeware 
+Shareware 
 
 # Registrazione 
 Prossimamente
