@@ -146,7 +146,7 @@ AxeDoctor is indicated in the following use cases:
 
 # License
 
-Freeware
+Shareware
 
 
 # Registration 
