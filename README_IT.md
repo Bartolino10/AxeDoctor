@@ -83,6 +83,7 @@ con funzionalità Wi-Fi e Bluetooth integrate. La scheda è dotata di un micropr
 			 gli IP trovati come fissi alla prossima accensione del AxeDoctor
 		 AXEIP2: (sprimentale) inserire un indirizzo IP (ex. 192.168.0.100) da utilizzare come riferimento su cui
 			 applicare la modalità "RESCAN"
+		 AXEIP6: Inserire il codice "DELAY" per attivare un ritardo di 10 minuti alla partenza
 
 		 ACTIVATION KEY: inserire il codice della licenza
 
