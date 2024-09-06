@@ -84,6 +84,7 @@ power supply.
 			  the IPs found as fixed the next time AxeDoctor is turned on
 		  AXEIP2: (experimental) enter an IP address (ex. 192.168.0.100) to be used as a reference on which
 			  apply "RESCAN" mode
+		  AXEIP6: Enter the code "DELAY" to activate a delay of 10 minutes on start
 
 		  ACTIVATION KEY: enter the license key
 
