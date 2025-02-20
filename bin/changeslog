@@ -1,3 +1,9 @@
+V2.0
+add session best diff and stratum diff
+add sw version on startup 
+some fixes from 1.9
+check compatibility from last bitaxe version 2.6.0B4
+
 V1.7
 some fixes
 add last AxeOS fixes and luckyminer L07 compatibility
